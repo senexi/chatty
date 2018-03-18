@@ -1,6 +1,6 @@
 # chatty
 
-> A Vue.js project
+> A frontend for chatbots done with Vue.js project and vuetify
 
 ## Build Setup
 
